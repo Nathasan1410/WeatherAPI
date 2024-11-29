@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091592984830",
+    "project_id": "weatherapi-4a61f",
+    "storage_bucket": "weatherapi-4a61f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091592984830:android:3b75d69dc99521c08cadaf",
+        "android_client_info": {
+          "package_name": "com.example.weatherapi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcoNV7qxkVt6U1IHGTZkbr_bKKsH9PPYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

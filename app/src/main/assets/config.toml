@@ -1,0 +1,8 @@
+[api]
+base_url = "https://api.openweathermap.org/data/2.5/"
+api_key = "626ac6d2d8a5fe5d0c6d0fd75fe2504b"
+units = "metric"
+
+
+
+

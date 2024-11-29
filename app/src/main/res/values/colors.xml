@@ -1,0 +1,13 @@
+<resources>
+    <!-- Primary colors -->
+    <color name="primaryColor">#3498db</color> <!-- Blue color -->
+    <color name="secondaryColor">#2ecc71</color> <!-- Green color -->
+    <color name="buttonColor">#ff6347</color> <!-- Tomato color -->
+    <color name="primaryTextColor">#ffffff</color> <!-- White text -->
+    <color name="secondaryTextColor">#7f8c8d</color> <!-- Gray text -->
+    <color name="hintColor">#7f8c8d</color> <!-- Hint text color -->
+    <color name="black">#000000</color> <!-- Hint text color -->
+
+    <!-- Background color -->
+    <color name="backgroundColor">#2c3e50</color> <!-- Dark background -->
+</resources>
